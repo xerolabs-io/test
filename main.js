@@ -20,3 +20,5 @@ function findSummTill100() {
 
 setTimeout(console.log(findSummTill100, 1000))
 console.log("Asynchronos")
+
+console.log("sdfghjkl")
